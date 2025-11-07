@@ -1,0 +1,8 @@
+## Why it’s good:
+
+Mature project with many users, good codebase to study.
+
+If you’re building crypto trading tools (which you indicated interest in), this is directly relevant.
+
+Opportunity to fork and customize a strategy under your profile.
+How you might use: Clone this, build a “strategy pack” under your own namespace (CryptoCCS-strategy1), publish that as your work.
